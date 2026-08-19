@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 MODEL_PATH = ROOT / "model.joblib"
-DATA_PATH = ROOT / "data" / "career_data.csv"
+DATA_PATH = ROOT / "career_data.csv"
 
 st.set_page_config(page_title="AI Career Compass", page_icon="🤖", layout="wide")
 
