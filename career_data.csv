@@ -1,0 +1,181 @@
+education_level,field_of_study,skills,interests,career_goal,career
+Diploma,Computer Science,"python, pandas, data analysis","research, data",analytics,Data Scientist
+Diploma,Computer Science,"data analysis, sql, python","data, patterns",data scientist,Data Scientist
+Graduate,Computer Science,"data analysis, statistics, pandas","patterns, data",research,Data Scientist
+Diploma,Mathematics,"python, statistics, pandas","patterns, research",research,Data Scientist
+Undergraduate,Statistics,"pandas, python, sql","patterns, data",research,Data Scientist
+Graduate,Mathematics,"python, sql, pandas","data, research",data scientist,Data Scientist
+Diploma,Mathematics,"data analysis, pandas, sql","research, analytics",data scientist,Data Scientist
+Undergraduate,Statistics,"pandas, python, sql","data, research",research,Data Scientist
+Graduate,Mathematics,"statistics, pandas, data analysis","research, analytics",research,Data Scientist
+Undergraduate,Computer Science,"data analysis, statistics, pandas","research, data",research,Data Scientist
+Diploma,Mathematics,"data analysis, statistics, pandas","analytics, data",data scientist,Data Scientist
+Undergraduate,Mathematics,"sql, pandas, python","research, analytics",analytics,Data Scientist
+Diploma,Statistics,"sql, data analysis, pandas","patterns, data",research,Data Scientist
+Undergraduate,Statistics,"data analysis, pandas, sql","patterns, analytics",research,Data Scientist
+Graduate,Statistics,"statistics, sql, python","data, patterns",data scientist,Data Scientist
+Graduate,Statistics,"sql, python, statistics","patterns, analytics",research,Data Scientist
+Undergraduate,Mathematics,"data analysis, python, pandas","data, analytics",analytics,Data Scientist
+Graduate,Mathematics,"python, pandas, statistics","research, patterns",data scientist,Data Scientist
+Graduate,Mathematics,"data analysis, statistics, pandas","data, analytics",research,Data Scientist
+Undergraduate,Statistics,"statistics, pandas, python","data, analytics",research,Data Scientist
+Graduate,Computer Science,"python, pandas, statistics","research, data",data scientist,Data Scientist
+Undergraduate,Computer Science,"python, sql, data analysis","research, data",analytics,Data Scientist
+Undergraduate,Statistics,"pandas, sql, python","research, analytics",research,Data Scientist
+Undergraduate,Mathematics,"sql, data analysis, python","research, data",data scientist,Data Scientist
+Graduate,Computer Science,"data analysis, statistics, pandas","research, data",data scientist,Data Scientist
+Diploma,Computer Science,"statistics, python, sql","analytics, data",analytics,Data Scientist
+Graduate,Mathematics,"sql, statistics, pandas","research, analytics",analytics,Data Scientist
+Graduate,Data Science,"statistics, sql, data analysis","research, data",data scientist,Data Scientist
+Graduate,Data Science,"pandas, sql, statistics","patterns, analytics",data scientist,Data Scientist
+Diploma,Computer Science,"python, sql, pandas","analytics, data",data scientist,Data Scientist
+Undergraduate,Software Engineering,"algorithms, tensorflow, python","technology, artificial intelligence",ai engineer,Machine Learning Engineer
+Graduate,Software Engineering,"python, tensorflow, scikit-learn","artificial intelligence, technology",build ai systems,Machine Learning Engineer
+Diploma,Computer Science,"python, machine learning, algorithms","technology, automation",ai engineer,Machine Learning Engineer
+Undergraduate,Data Science,"python, machine learning, tensorflow","artificial intelligence, automation",ai engineer,Machine Learning Engineer
+Diploma,Computer Engineering,"tensorflow, algorithms, python","automation, technology",machine learning,Machine Learning Engineer
+Diploma,Computer Science,"scikit-learn, python, tensorflow","technology, models",build ai systems,Machine Learning Engineer
+Graduate,Computer Science,"algorithms, python, tensorflow","artificial intelligence, models",machine learning,Machine Learning Engineer
+Diploma,Software Engineering,"tensorflow, python, scikit-learn","automation, models",build ai systems,Machine Learning Engineer
+Undergraduate,Computer Science,"tensorflow, scikit-learn, machine learning","automation, models",build ai systems,Machine Learning Engineer
+Diploma,Software Engineering,"scikit-learn, tensorflow, python","models, automation",ai engineer,Machine Learning Engineer
+Diploma,Computer Science,"tensorflow, python, algorithms","automation, models",ai engineer,Machine Learning Engineer
+Graduate,Computer Engineering,"python, machine learning, tensorflow","models, artificial intelligence",ai engineer,Machine Learning Engineer
+Diploma,Computer Engineering,"algorithms, python, scikit-learn","models, technology",machine learning,Machine Learning Engineer
+Graduate,Computer Engineering,"python, algorithms, scikit-learn","automation, technology",ai engineer,Machine Learning Engineer
+Undergraduate,Software Engineering,"scikit-learn, machine learning, algorithms","models, technology",ai engineer,Machine Learning Engineer
+Diploma,Computer Science,"python, tensorflow, machine learning","artificial intelligence, technology",ai engineer,Machine Learning Engineer
+Diploma,Computer Engineering,"machine learning, tensorflow, scikit-learn","technology, models",machine learning,Machine Learning Engineer
+Diploma,Computer Science,"machine learning, python, algorithms","automation, technology",machine learning,Machine Learning Engineer
+Graduate,Computer Engineering,"scikit-learn, python, machine learning","automation, models",machine learning,Machine Learning Engineer
+Diploma,Computer Science,"scikit-learn, tensorflow, algorithms","automation, artificial intelligence",machine learning,Machine Learning Engineer
+Graduate,Data Science,"python, machine learning, scikit-learn","models, automation",build ai systems,Machine Learning Engineer
+Undergraduate,Software Engineering,"scikit-learn, machine learning, algorithms","artificial intelligence, automation",machine learning,Machine Learning Engineer
+Diploma,Software Engineering,"machine learning, tensorflow, algorithms","models, artificial intelligence",machine learning,Machine Learning Engineer
+Graduate,Software Engineering,"tensorflow, scikit-learn, machine learning","artificial intelligence, automation",ai engineer,Machine Learning Engineer
+Graduate,Data Science,"algorithms, scikit-learn, python","artificial intelligence, automation",machine learning,Machine Learning Engineer
+Undergraduate,Computer Engineering,"python, algorithms, scikit-learn","technology, automation",build ai systems,Machine Learning Engineer
+Graduate,Data Science,"algorithms, python, machine learning","automation, technology",machine learning,Machine Learning Engineer
+Undergraduate,Data Science,"python, machine learning, tensorflow","technology, artificial intelligence",build ai systems,Machine Learning Engineer
+Undergraduate,Computer Engineering,"python, scikit-learn, tensorflow","models, technology",ai engineer,Machine Learning Engineer
+Graduate,Data Science,"scikit-learn, machine learning, python","technology, models",ai engineer,Machine Learning Engineer
+Diploma,Economics,"data analysis, power bi, sql","business, analytics",business intelligence,Data Analyst
+Diploma,Computer Science,"data analysis, power bi, sql","data, analytics",analytics,Data Analyst
+Graduate,Computer Science,"sql, excel, data analysis","dashboards, business",data analyst,Data Analyst
+Undergraduate,Business Administration,"sql, data analysis, excel","business, data",data analyst,Data Analyst
+Undergraduate,Statistics,"python, data analysis, power bi","analytics, dashboards",analytics,Data Analyst
+Diploma,Computer Science,"python, sql, excel","business, data",business intelligence,Data Analyst
+Diploma,Economics,"data analysis, python, excel","analytics, business",business intelligence,Data Analyst
+Diploma,Computer Science,"data analysis, power bi, sql","data, dashboards",business intelligence,Data Analyst
+Graduate,Computer Science,"python, power bi, excel","dashboards, data",business intelligence,Data Analyst
+Undergraduate,Economics,"power bi, python, excel","dashboards, business",business intelligence,Data Analyst
+Graduate,Business Administration,"data analysis, excel, python","analytics, business",business intelligence,Data Analyst
+Undergraduate,Economics,"sql, excel, data analysis","data, analytics",analytics,Data Analyst
+Diploma,Computer Science,"excel, sql, python","data, dashboards",analytics,Data Analyst
+Graduate,Computer Science,"python, excel, sql","dashboards, analytics",business intelligence,Data Analyst
+Undergraduate,Economics,"python, sql, data analysis","data, analytics",data analyst,Data Analyst
+Diploma,Business Administration,"python, sql, data analysis","analytics, dashboards",analytics,Data Analyst
+Diploma,Computer Science,"data analysis, excel, python","data, business",business intelligence,Data Analyst
+Undergraduate,Statistics,"power bi, python, sql","analytics, data",business intelligence,Data Analyst
+Graduate,Computer Science,"power bi, python, sql","business, analytics",data analyst,Data Analyst
+Diploma,Statistics,"power bi, sql, data analysis","business, dashboards",data analyst,Data Analyst
+Undergraduate,Economics,"sql, excel, power bi","analytics, business",data analyst,Data Analyst
+Graduate,Statistics,"data analysis, sql, python","dashboards, analytics",data analyst,Data Analyst
+Graduate,Statistics,"sql, power bi, excel","business, analytics",analytics,Data Analyst
+Undergraduate,Computer Science,"python, sql, excel","analytics, business",analytics,Data Analyst
+Diploma,Statistics,"data analysis, excel, sql","data, dashboards",business intelligence,Data Analyst
+Graduate,Business Administration,"excel, python, sql","business, analytics",business intelligence,Data Analyst
+Undergraduate,Computer Science,"sql, python, excel","dashboards, data",analytics,Data Analyst
+Undergraduate,Computer Science,"python, power bi, sql","analytics, business",business intelligence,Data Analyst
+Diploma,Economics,"python, data analysis, sql","business, analytics",business intelligence,Data Analyst
+Graduate,Computer Science,"sql, power bi, data analysis","dashboards, analytics",analytics,Data Analyst
+Graduate,Information Technology,"git, python, html","apps, coding",software developer,Software Developer
+Undergraduate,Computer Engineering,"css, javascript, html","technology, web",app developer,Software Developer
+Diploma,Computer Engineering,"python, git, javascript","apps, technology",app developer,Software Developer
+Graduate,Information Technology,"git, html, javascript","web, apps",app developer,Software Developer
+Diploma,Information Technology,"html, css, javascript","web, apps",software developer,Software Developer
+Graduate,Software Engineering,"html, python, git","apps, coding",software developer,Software Developer
+Undergraduate,Computer Engineering,"html, git, python","apps, technology",software developer,Software Developer
+Diploma,Software Engineering,"html, python, git","apps, technology",software developer,Software Developer
+Undergraduate,Information Technology,"javascript, css, python","coding, web",web developer,Software Developer
+Diploma,Computer Engineering,"css, html, python","coding, apps",web developer,Software Developer
+Graduate,Computer Science,"css, git, python","coding, technology",software developer,Software Developer
+Graduate,Information Technology,"python, javascript, git","technology, web",app developer,Software Developer
+Undergraduate,Software Engineering,"git, css, javascript","technology, apps",app developer,Software Developer
+Diploma,Information Technology,"git, python, html","coding, technology",app developer,Software Developer
+Diploma,Information Technology,"python, javascript, git","apps, web",software developer,Software Developer
+Diploma,Computer Science,"css, git, html","technology, apps",software developer,Software Developer
+Graduate,Information Technology,"html, css, python","apps, technology",app developer,Software Developer
+Undergraduate,Software Engineering,"css, python, html","apps, web",software developer,Software Developer
+Graduate,Software Engineering,"python, git, css","web, technology",app developer,Software Developer
+Undergraduate,Information Technology,"css, python, javascript","web, technology",web developer,Software Developer
+Undergraduate,Computer Engineering,"css, python, html","coding, apps",app developer,Software Developer
+Graduate,Information Technology,"python, git, css","coding, web",web developer,Software Developer
+Graduate,Computer Science,"javascript, css, html","technology, apps",software developer,Software Developer
+Undergraduate,Computer Engineering,"css, python, javascript","web, apps",web developer,Software Developer
+Undergraduate,Computer Science,"javascript, html, git","technology, apps",app developer,Software Developer
+Undergraduate,Computer Science,"css, python, javascript","web, apps",software developer,Software Developer
+Undergraduate,Computer Science,"git, css, javascript","coding, technology",app developer,Software Developer
+Undergraduate,Computer Engineering,"css, python, git","web, technology",software developer,Software Developer
+Undergraduate,Computer Engineering,"css, python, git","apps, web",software developer,Software Developer
+Diploma,Computer Science,"git, css, python","apps, coding",web developer,Software Developer
+Undergraduate,Computer Science,"python, security, risk assessment","investigation, privacy",security analyst,Cybersecurity Analyst
+Graduate,Computer Science,"python, linux, risk assessment","privacy, investigation",ethical hacking,Cybersecurity Analyst
+Diploma,Computer Science,"networking, security, linux","investigation, networks",security analyst,Cybersecurity Analyst
+Undergraduate,Information Technology,"security, python, networking","networks, investigation",security analyst,Cybersecurity Analyst
+Diploma,Information Technology,"risk assessment, python, linux","investigation, security",ethical hacking,Cybersecurity Analyst
+Graduate,Computer Engineering,"linux, python, networking","investigation, networks",security analyst,Cybersecurity Analyst
+Graduate,Computer Engineering,"python, linux, risk assessment","security, networks",ethical hacking,Cybersecurity Analyst
+Diploma,Information Technology,"networking, python, risk assessment","networks, security",ethical hacking,Cybersecurity Analyst
+Graduate,Computer Engineering,"linux, networking, risk assessment","investigation, privacy",ethical hacking,Cybersecurity Analyst
+Graduate,Computer Engineering,"networking, security, python","networks, privacy",ethical hacking,Cybersecurity Analyst
+Graduate,Computer Engineering,"risk assessment, networking, security","security, networks",ethical hacking,Cybersecurity Analyst
+Diploma,Information Technology,"linux, networking, risk assessment","security, investigation",ethical hacking,Cybersecurity Analyst
+Undergraduate,Computer Engineering,"linux, security, networking","security, privacy",cybersecurity,Cybersecurity Analyst
+Graduate,Information Technology,"security, python, networking","privacy, investigation",security analyst,Cybersecurity Analyst
+Diploma,Computer Science,"linux, risk assessment, networking","networks, investigation",ethical hacking,Cybersecurity Analyst
+Undergraduate,Computer Engineering,"risk assessment, linux, networking","networks, investigation",security analyst,Cybersecurity Analyst
+Undergraduate,Information Technology,"networking, python, linux","privacy, security",security analyst,Cybersecurity Analyst
+Undergraduate,Information Technology,"python, security, linux","investigation, security",security analyst,Cybersecurity Analyst
+Graduate,Cybersecurity,"linux, python, security","investigation, networks",security analyst,Cybersecurity Analyst
+Graduate,Information Technology,"networking, python, linux","security, investigation",ethical hacking,Cybersecurity Analyst
+Diploma,Cybersecurity,"risk assessment, python, linux","privacy, investigation",security analyst,Cybersecurity Analyst
+Graduate,Computer Science,"risk assessment, security, python","privacy, investigation",cybersecurity,Cybersecurity Analyst
+Diploma,Cybersecurity,"security, python, networking","investigation, networks",cybersecurity,Cybersecurity Analyst
+Undergraduate,Information Technology,"security, python, networking","privacy, security",ethical hacking,Cybersecurity Analyst
+Diploma,Information Technology,"linux, security, risk assessment","investigation, networks",security analyst,Cybersecurity Analyst
+Diploma,Computer Engineering,"networking, linux, risk assessment","networks, investigation",security analyst,Cybersecurity Analyst
+Graduate,Computer Engineering,"networking, security, python","security, privacy",security analyst,Cybersecurity Analyst
+Diploma,Information Technology,"risk assessment, python, security","investigation, security",ethical hacking,Cybersecurity Analyst
+Graduate,Computer Engineering,"networking, security, python","privacy, investigation",cybersecurity,Cybersecurity Analyst
+Undergraduate,Computer Engineering,"security, python, networking","privacy, security",cybersecurity,Cybersecurity Analyst
+Undergraduate,Software Engineering,"python, pytorch, text analysis","chatbots, artificial intelligence",chatbot,AI/NLP Specialist
+Undergraduate,Software Engineering,"pytorch, nlp, text analysis","language, chatbots",ai research,AI/NLP Specialist
+Undergraduate,Data Science,"python, machine learning, pytorch","artificial intelligence, chatbots",nlp,AI/NLP Specialist
+Diploma,Computer Science,"machine learning, pytorch, python","artificial intelligence, chatbots",nlp,AI/NLP Specialist
+Diploma,Software Engineering,"python, nlp, machine learning","language, artificial intelligence",chatbot,AI/NLP Specialist
+Diploma,Linguistics,"pytorch, nlp, python","chatbots, text",nlp,AI/NLP Specialist
+Undergraduate,Data Science,"nlp, python, pytorch","chatbots, language",ai research,AI/NLP Specialist
+Graduate,Linguistics,"python, pytorch, text analysis","language, chatbots",nlp,AI/NLP Specialist
+Undergraduate,Data Science,"python, nlp, text analysis","language, artificial intelligence",ai research,AI/NLP Specialist
+Diploma,Computer Science,"python, text analysis, nlp","text, artificial intelligence",ai research,AI/NLP Specialist
+Graduate,Software Engineering,"pytorch, nlp, machine learning","language, text",ai research,AI/NLP Specialist
+Graduate,Data Science,"text analysis, python, pytorch","artificial intelligence, chatbots",chatbot,AI/NLP Specialist
+Diploma,Computer Science,"text analysis, pytorch, python","language, chatbots",ai research,AI/NLP Specialist
+Graduate,Computer Science,"nlp, machine learning, text analysis","text, chatbots",ai research,AI/NLP Specialist
+Graduate,Data Science,"text analysis, pytorch, python","language, text",ai research,AI/NLP Specialist
+Undergraduate,Linguistics,"text analysis, pytorch, python","artificial intelligence, chatbots",chatbot,AI/NLP Specialist
+Undergraduate,Software Engineering,"python, machine learning, nlp","text, artificial intelligence",chatbot,AI/NLP Specialist
+Diploma,Linguistics,"text analysis, python, pytorch","language, artificial intelligence",chatbot,AI/NLP Specialist
+Undergraduate,Data Science,"nlp, python, machine learning","text, artificial intelligence",nlp,AI/NLP Specialist
+Graduate,Data Science,"text analysis, python, nlp","text, chatbots",nlp,AI/NLP Specialist
+Undergraduate,Linguistics,"nlp, text analysis, python","language, chatbots",ai research,AI/NLP Specialist
+Graduate,Computer Science,"machine learning, nlp, text analysis","language, text",ai research,AI/NLP Specialist
+Diploma,Data Science,"python, nlp, text analysis","text, chatbots",chatbot,AI/NLP Specialist
+Diploma,Linguistics,"nlp, text analysis, python","chatbots, text",ai research,AI/NLP Specialist
+Diploma,Computer Science,"pytorch, nlp, text analysis","artificial intelligence, chatbots",chatbot,AI/NLP Specialist
+Diploma,Data Science,"machine learning, pytorch, text analysis","language, artificial intelligence",nlp,AI/NLP Specialist
+Undergraduate,Computer Science,"python, machine learning, nlp","artificial intelligence, chatbots",ai research,AI/NLP Specialist
+Diploma,Software Engineering,"machine learning, nlp, pytorch","language, chatbots",chatbot,AI/NLP Specialist
+Undergraduate,Data Science,"pytorch, text analysis, machine learning","text, language",nlp,AI/NLP Specialist
+Undergraduate,Computer Science,"python, nlp, text analysis","chatbots, language",chatbot,AI/NLP Specialist
